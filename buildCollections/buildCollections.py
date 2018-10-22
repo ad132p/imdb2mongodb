@@ -129,10 +129,10 @@ def title_ratings():
         title_ratings_coll.insert_one(dict_document)
 
 
-#name_basics()
-#title_akas()
-#title_basics()
-#title_crew()
+name_basics()
+title_akas()
+title_basics()
+title_crew()
 title_episode()
 title_principals()
 title_ratings()
