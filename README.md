@@ -1,7 +1,7 @@
 # imdb2mongodb
 Importing raw IMDB datasets into MongoDB
 
-(These are probably the worst scripts I'ver wever written, btw)
+(These are probably the worst scripts I've ever written, btw)
 
 To import IMDB datasets into MongoDB, make sure you have MongoDB installed, obviously.
 
