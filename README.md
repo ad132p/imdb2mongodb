@@ -9,6 +9,6 @@ Then download pymongo for connecting to your mongodb instance. Change the connec
 
 Download the datasets with download_datasets.sh script
 
-Then run python3 buildCollections/buildCollections.py <directory with datasets>
+Then run python3 buildCollections/buildCollections.py and inform the directory with datasets as an argument to the script.
 
 Enjoy.
